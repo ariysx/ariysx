@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rin</h1>
 <h3 align="center">Aspired Developer</h3>
 
-- 🔭 I’m currently working on [Central Recipe](https://github.com/ariysx/CentralRecipe)
+- 🔭 I’m currently working on [MyDex](https://github.com/ariysx/MyDex)
 
-- 🌱 I’m currently learning **ReactJS, NodeJS**
+- 🌱 I’m currently learning **Kotlin, Jetpack Compose**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ariysx](https://github.com/ariysx)
 
